@@ -28,6 +28,8 @@ creator:
     - http://en.wikipedia.org/wiki/Sophie_Ristaud_Cottin
     - http://fr.wikipedia.org/wiki/Sophie_Cottin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38800#-----------------------------------18---------
 gutenberg_issued: '2012-02-10'
 gutenberg_type: Text
 identifiers:
