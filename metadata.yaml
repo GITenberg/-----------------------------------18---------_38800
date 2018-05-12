@@ -1,0 +1,44 @@
+_repo: '-----------------------------------18---------_38800'
+_version: 0.1.0
+alternative_title: Malvina
+contributor:
+  translator:
+    agent_name: Argyropoulos, K. P.
+    alias: Αργυρόπουλος, Κ. Π.
+    gutenberg_agent_id: '39666'
+    url: http://www.gutenberg.org/2009/agents/39666
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cottin, Madame (Sophie)
+    aliases:
+    - Risteau, Sophie
+    - Risteau, Marie-Sophie
+    - Cottin, Sophie
+    - Cottin, Marie Risteau, called Sophie
+    - Ristaud, Sophie
+    - Ristaud, Marie Sophie
+    birthdate: 1770
+    deathdate: 1807
+    gutenberg_agent_id: '32253'
+    url: http://www.gutenberg.org/2009/agents/32253
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Sophie_Ristaud_Cottin
+    - http://fr.wikipedia.org/wiki/Sophie_Cottin
+description: ''
+gutenberg_issued: '2012-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38800'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Βιβλιοθήκη "Εκλεκτά Έργα", αριθ. 23
+subjects:
+- !lcsh 'French fiction -- Translations into Greek'
+- !lcc 'PQ'
+title: 'Μαλβίνα: Ρωμαντικό Μυθιστόρημα του 18ου αιώνος'
+url: http://www.gutenberg.org/ebooks/38800
